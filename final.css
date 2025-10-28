@@ -1,0 +1,80 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    background-image: url(fi.jpg);
+    margin: 25px;
+    padding: 75px;
+    background: no-repeat;
+}
+.card1{
+    /*flex-basis: 30%;*/
+    border: solid 5px;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 25px;
+    /*padding: 10px;*/
+    text-align: center;
+}
+
+.card2{
+   /* flex-basis: 30%;*/
+    border: solid 5px;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 25px;
+    padding: 10px;
+    text-align: center;
+}
+.card3{
+    /*flex-basis: 30%;*/
+    border: solid 5px;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 25px;
+    padding: 10px;
+    text-align: center;
+}
+.footer1{
+    display: flex;
+    text-align: center;
+    background-color: pink;
+    justify-content: space-around;
+    /*border: 5px solid;*/
+    height: 100px;
+    border-radius: 0px 0px 30px 30px;
+}
+.footer2{
+    display: flex;
+    text-align: center;
+    background-color: orange;
+    justify-content: space-around;
+    /*border: 5px solid;*/
+    height: 100px;
+    border-radius: 0px 0px 30px 30px;
+}.footer3{
+    display: flex;
+    text-align: center;
+    background-color: green;
+    justify-content: space-around;
+    /*border: 5px solid;*/
+    height: 100px;
+    border-radius: 0px 0px 30px 30px;
+}
+
+.image1{
+    width: 100%;
+    border-radius: 30px 30px 0px 0px;
+}
+.pink{
+    color: pink;
+}
+.orange{
+    color: orange;
+}
+.green{
+    color: green;
+}
+.content{
+    background-color: white;
+    justify-content: center;
+}
